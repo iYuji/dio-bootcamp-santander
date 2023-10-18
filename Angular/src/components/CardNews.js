@@ -80,7 +80,6 @@ styles(){
     }
     
     .card_right > img {
-    display: flex;
     max-width: 300px;
     max-height: 300px;
     width: auto;
